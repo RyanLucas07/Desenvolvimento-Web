@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+h1{
+    text-align: center;
+    font-family:"Jersey 10", sans-serif;;
+}
+
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+img{
+    width: 800;
+    display: block;
+    /*Codigo para centralizar imagem e botão*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    height: 30px;
+    width: 150px;
+    border: 1px solid royalblue;
+    border-radius: 10px;
+    cursor: pointer;
+    background:linear-gradient(#77c0b4, #c6e8e9);
+    transition: 0.5s ease-in-out;
+}
+
+button:hover{
+    background:linear-gradient(#8adbdc, #77c0b4);
+}
+
+button a{
+    color: #dc4554;
+    text-decoration: none;
+}
+
+button a:hover{
+    color: blueviolet;
+}
