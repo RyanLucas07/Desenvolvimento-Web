@@ -1,0 +1,38 @@
+#div-principal{
+    display: flex;
+    flex-wrap: wrap;
+    height: 50%;
+}
+.divauau{
+    width: 50%;
+    height: 100%;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.divauau2{
+    width: 50%;
+    height: 100%;
+    background-color: crimson;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.divauau3{
+    width: 50%;
+    height: 100%;
+    background-color: greenyellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.divauau4{
+    width: 50%;
+    height: 100%;
+    background-color:cornflowerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
