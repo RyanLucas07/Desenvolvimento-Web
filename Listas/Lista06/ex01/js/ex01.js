@@ -35,3 +35,4 @@ var pix = {
     ]
 
 }
+console.log(pix)
